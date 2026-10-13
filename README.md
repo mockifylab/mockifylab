@@ -1,185 +1,213 @@
 <!--
-  MOCKIFY LAB | Interactive IDE Profile
-  Accent palette: Yellow + Indigo
+  MOCKIFY LAB // INTERACTIVE PROFILE
+  Design language: Obsidian · Indigo · Signal Yellow
 -->
 
 <div align="center">
 
-<a href="https://github.com/mockifylab">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,50:312E81,100:4F46E5&text=MOCKIFY%20LAB&fontSize=48&fontColor=FDE047&fontAlignY=40&animation=twinkling&desc=Where%20vision%20comes%20true.&descAlignY=62&descSize=16" width="100%" alt="Mockify Lab banner"/>
-</a>
+# `mockify.lab`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=FDE047&center=true&vCenter=true&width=700&lines=Graphic+Designer+%7C+Visual+Thinker;Linux+Enthusiast+%7C+Desktop+Customizer;Building+interfaces+with+intention;Design.+Experiment.+Refine." alt="Animated introduction"/>
+`CREATIVE ENGINEERING / VISUAL SYSTEMS / OPEN SOURCE`
 
-<br/>
+**A place where vision comes true.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-MockifyLab-111827?style=for-the-badge&logo=github&logoColor=FDE047)](https://github.com/mockifylab)
-[![Repositories](https://img.shields.io/badge/Explore-Projects-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mockifylab?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=mockifylab&style=for-the-badge&color=4F46E5&label=PROFILE+VIEWS)](https://github.com/mockifylab)
+`[ DESIGN ]` ━━━━━━━━━ ` [ EXPERIMENT ]` ━━━━━━━━━ `[ BUILD ]`
+
+<br>
+
+[ `01 / ABOUT` ](#01--about) · [ `02 / WORKSPACE` ](#02--workspace) · [ `03 / PROJECTS` ](#03--selected-projects) · [ `04 / STACK` ](#04--toolkit) · [ `05 / CONNECT` ](#05--connect)
 
 </div>
 
 ---
 
 <details open>
-<summary><b>📂 EXPLORER · profile.json</b></summary>
+<summary><code>~/mockify-lab/README.md</code> <b>· current workspace</b></summary>
 
-```json
-{
-  "name": "Aasif",
-  "brand": "Mockify Lab",
-  "role": [
-    "Graphic Designer",
-    "Art Director",
-    "Linux Enthusiast"
-  ],
-  "interests": [
-    "Visual Identity",
-    "Interface Design",
-    "Linux Desktop Customization",
-    "Open Source"
-  ],
-  "philosophy": "Design with intention. Build with curiosity.",
-  "status": "Always experimenting"
-}
+```text
+.
+├── identity/
+│   ├── creative-direction.md
+│   └── visual-systems.md
+├── experiments/
+│   ├── linux-desktop/
+│   ├── interface-design/
+│   └── open-source/
+├── projects/
+│   └── always-in-progress/
+└── philosophy.md
 ```
 
 </details>
 
-## `01` · About Me
+## `01` / About
 
 ```js
-const aasif = {
-  identity: "Designer at heart, explorer by nature",
-  focus: ["Brand Identity", "Art Direction", "UI/UX"],
-  playground: ["Linux", "Hyprland", "Custom Shells"],
-  mindset: "Make it meaningful. Make it memorable.",
+const creator = {
+  name: "Aasif",
+  studio: "Mockify Lab",
+  roles: ["Graphic Designer", "Art Director", "Builder"],
+  interests: [
+    "Visual identity",
+    "Interface experiences",
+    "Linux & desktop customization",
+    "Open-source experimentation"
+  ],
+  principle: "Make ordinary things feel extraordinary."
 };
 ```
 
-I'm the creator behind **Mockify Lab**, a creative space where visual design meets experimentation.
+I'm a designer with a curiosity for how things work.
 
-I craft distinctive brand identities, explore interface design, and experiment with customizable Linux desktops. I enjoy bringing creative direction and technical curiosity together to build experiences that feel considered, personal, and polished.
+My world lives somewhere between visual storytelling, carefully crafted identities, customizable desktop environments, and ideas that deserve to exist beyond a sketch.
 
-> Build with curiosity. Design with intention. Refine every detail.
+I care about the details people notice, the details they don't, and the feeling that connects them both.
 
-## `02` · Navigate
+**Not just how it looks. How it works. How it feels.**
 
-| File | Description |
-|---|---|
-| [`/design`](#03--creative-work) | Branding and visual design |
-| [`/projects`](#04--featured-projects) | Things I'm exploring and building |
-| [`/toolkit`](#05--toolkit) | Technologies and creative tools |
-| [`/activity`](#06--github-activity) | GitHub stats and contributions |
-| [`/contact`](#07--connect) | Find me on GitHub |
+---
 
-## `03` · Creative Work
+## `02` / Workspace
 
 <details open>
-<summary><b>🎨 design/brand-identity</b></summary>
+<summary><code>01_identity/</code> — The visual side</summary>
 
-Brand identities, logo systems, art direction, vector illustrations, realistic product mockups, and visual systems built around a clear creative vision.
+I develop visual directions that give brands a recognizable point of view.
 
-**Focus:** Concept development · Visual storytelling · Brand consistency · Detail-driven design
+- Brand identity & logo systems
+- Creative direction & visual storytelling
+- Product mockups & presentation
+- Typography, composition & art direction
 
 </details>
 
 <details>
-<summary><b>🖥️ systems/desktop-experience</b></summary>
+<summary><code>02_interfaces/</code> — The experience side</summary>
 
-Exploring Linux desktop customization, Hyprland configurations, shell interfaces, visual effects, and motion-inspired UI experiences.
+I explore the relationship between aesthetics and usability, from desktop environments to digital interfaces.
 
-**Focus:** Custom interfaces · Desktop workflows · Configuration · Visual refinement
+- Interface concepts & interaction design
+- Desktop customization & workflow design
+- Visual systems & interface consistency
+- Experimentation with motion and atmosphere
 
 </details>
-
-## `04` · Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/mockifylab/Noctalia-Evolved">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mockifylab&repo=Noctalia-Evolved&theme=tokyonight&hide_border=true&bg_color=111827&title_color=FDE047&icon_color=818CF8" width="49%" alt="Noctalia Evolved repository card"/>
-</a>
-<a href="https://github.com/mockifylab/Celestia-Evolved">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mockifylab&repo=Celestia-Evolved&theme=tokyonight&hide_border=true&bg_color=111827&title_color=FDE047&icon_color=818CF8" width="49%" alt="Celestia Evolved repository card"/>
-</a>
-<a href="https://github.com/mockifylab/Harmony">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mockifylab&repo=Harmony&theme=tokyonight&hide_border=true&bg_color=111827&title_color=FDE047&icon_color=818CF8" width="49%" alt="Harmony repository card"/>
-</a>
-<a href="https://github.com/mockifylab/Findera">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mockifylab&repo=Findera&theme=tokyonight&hide_border=true&bg_color=111827&title_color=FDE047&icon_color=818CF8" width="49%" alt="Findera repository card"/>
-</a>
-
-</div>
 
 <details>
-<summary><b>▸ Explore the project directory</b></summary>
+<summary><code>03_experiments/</code> — The curiosity side</summary>
 
-- **Noctalia-Evolved** · [Open repository](https://github.com/mockifylab/Noctalia-Evolved)
-- **Celestia-Evolved** · [Open repository](https://github.com/mockifylab/Celestia-Evolved)
-- **Harmony** · [Open repository](https://github.com/mockifylab/Harmony)
-- **Findera** · [Open repository](https://github.com/mockifylab/Findera)
+A space for learning by building, testing ideas, improving existing experiences, and exploring what open source makes possible.
+
+- Linux environments & shell customization
+- Configuration-driven workflows
+- Interface experiments
+- Small ideas with room to grow
 
 </details>
 
-## `05` · Toolkit
+---
+
+## `03` / Selected Projects
+
+<sub>FOUR REPOSITORIES · FOUR WINDOWS INTO THE WORK</sub>
+
+<details open>
+<summary><b>01 — Noctalia Evolved</b> <code>DESKTOP / WINDOWS</code></summary>
+
+A project bringing the Noctalia-inspired desktop experience to Windows.
+
+[ OPEN REPOSITORY ↗](https://github.com/mockifylab/Noctalia-Evolved)
+
+</details>
+
+<details>
+<summary><b>02 — Celestia Evolved</b> <code>EXPERIMENT / INTERFACE</code></summary>
+
+An evolving project in the Mockify Lab ecosystem.
+
+[ OPEN REPOSITORY ↗](https://github.com/mockifylab/Celestia-Evolved)
+
+</details>
+
+<details>
+<summary><b>03 — Harmony</b> <code>PROJECT / EXPLORATION</code></summary>
+
+Explore the repository, its implementation, and the ideas behind it.
+
+[ OPEN REPOSITORY ↗](https://github.com/mockifylab/Harmony)
+
+</details>
+
+<details>
+<summary><b>04 — Findera</b> <code>PROJECT / EXPLORATION</code></summary>
+
+Another part of the ongoing collection of experiments and builds.
+
+[ OPEN REPOSITORY ↗](https://github.com/mockifylab/Findera)
+
+</details>
 
 <div align="center">
 
-**Creative**
-
-<img src="https://img.shields.io/badge/Graphic_Design-111827?style=flat-square&logo=figma&logoColor=FDE047" alt="Graphic design"/>
-<img src="https://img.shields.io/badge/Brand_Identity-111827?style=flat-square&logo=adobeillustrator&logoColor=FDE047" alt="Brand identity"/>
-<img src="https://img.shields.io/badge/Art_Direction-111827?style=flat-square&logo=adobecreativecloud&logoColor=FDE047" alt="Art direction"/>
-
-**Development & Environment**
-
-<img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FDE047" alt="Linux"/>
-<img src="https://img.shields.io/badge/Hyprland-111827?style=flat-square&logo=hyprland&logoColor=818CF8" alt="Hyprland"/>
-<img src="https://img.shields.io/badge/QML-111827?style=flat-square&logo=qt&logoColor=41CD52" alt="QML"/>
-<img src="https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus&logoColor=659AD2" alt="C++"/>
-<img src="https://img.shields.io/badge/Dart-111827?style=flat-square&logo=dart&logoColor=54C5F8" alt="Dart"/>
+[ **BROWSE ALL REPOSITORIES →**](https://github.com/mockifylab?tab=repositories)
 
 </div>
 
-## `06` · GitHub Activity
+---
+
+## `04` / Toolkit
+
+<details>
+<summary><b>Open creative toolkit</b> — visual & design</summary>
+
+`BRAND IDENTITY` · `ART DIRECTION` · `TYPOGRAPHY` · `COMPOSITION` · `PRODUCT MOCKUPS` · `VISUAL STORYTELLING`
+
+</details>
+
+<details>
+<summary><b>Open technical toolkit</b> — systems & development</summary>
+
+`LINUX` · `HYPRLAND` · `WINDOWS` · `GIT` · `SHELL CONFIGURATION` · `INTERFACE EXPERIMENTS`
+
+</details>
+
+I prefer tools that give me control, workflows that stay understandable, and systems I can refine instead of simply consume.
+
+---
+
+## `05` / Current mindset
+
+```text
+[ THINK ]  →  [ MAKE ]  →  [ TEST ]  →  [ REFINE ]
+     ↑                                  |
+     └──────────────────────────────────┘
+```
+
+The first version is a starting point, not a destination.
+
+I believe the best work comes from a willingness to question the obvious, experiment with alternatives, and refine the smallest details until everything feels intentional.
+
+---
+
+## `06` / Connect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mockifylab&show_icons=true&hide_border=true&bg_color=111827&title_color=FDE047&icon_color=818CF8&text_color=D1D5DB&rank_icon=github" width="49%" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mockifylab&layout=compact&hide_border=true&bg_color=111827&title_color=FDE047&text_color=D1D5DB" width="49%" alt="Most used repository languages"/>
+**GOOD IDEAS DESERVE GOOD EXECUTION.**
 
-<br/>
+Have something interesting to build, a visual problem to solve, or an experiment worth exploring?
 
-<img src="https://streak-stats.demolab.com?user=mockifylab&hide_border=true&background=111827&ring=FDE047&fire=FDE047&currStreakLabel=FDE047&sideLabels=D1D5DB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="70%" alt="GitHub contribution streak"/>
+[ **EXPLORE MY WORK** ](https://github.com/mockifylab?tab=repositories)
 
-</div>
+[ **FOLLOW THE JOURNEY** ](https://github.com/mockifylab)
 
-## `07` · Contribution Graph
+<br>
 
-<div align="center">
+`STATUS: ALWAYS EXPLORING`
 
-<img src="https://raw.githubusercontent.com/mockifylab/mockifylab/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+**MOCKIFY LAB**  
+<sub>DESIGNED WITH INTENTION. BUILT WITH CURIOSITY.</sub>
 
-</div>
-
-## `08` · Connect
-
-<div align="center">
-
-Have an interesting idea, a design challenge, or a project worth exploring?
-
-**Let's make something meaningful.**
-
-[![Explore my work](https://img.shields.io/badge/EXPLORE_MY_WORK-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mockifylab?tab=repositories)
-[![Follow on GitHub](https://img.shields.io/badge/FOLLOW-Mockify_Lab-FDE047?style=for-the-badge&logo=github&logoColor=111827)](https://github.com/mockifylab)
-
-<br/>
-
-*“Where vision comes true.”*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:4F46E5,100:111827" width="100%" alt="Decorative footer"/>
-
-<sub>Crafted with intention by Mockify Lab · © Aasif</sub>
+`© AASIF / MOCKIFY LAB`
 
 </div>
